@@ -1,7 +1,7 @@
 
 Here are some more changes!
 
-And Some more!
+And some more!
 
 
 
@@ -33,4 +33,4 @@ And Some more!
 
 
 
-Here are some way down here
+Here are some way down here!
