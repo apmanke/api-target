@@ -1,3 +1,2 @@
 This is a new file.
-
 It has more than one line since its creation.
